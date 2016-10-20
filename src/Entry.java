@@ -13,6 +13,7 @@ public class Entry {
 
     public String getEntIP() {
         return entIP;
+
     }
 
 }
